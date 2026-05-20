@@ -222,18 +222,7 @@ Acesso:
 - Login: `http://localhost:8000/login.php`
 - Painel administrativo: `http://localhost:8000/index.php`
 
-## 9) Evidencias do Desenvolvimento
-
-### 9.1 Image #1 - estrutura inicial (SQL + conexao PDO)
-![Image #1](docs/images/image-1.jpg)
-
-### 9.2 Image #2 - distribuicao de tarefas do CRUD (parte 1)
-![Image #2](docs/images/image-2.jpg)
-
-### 9.3 Image #3 - distribuicao de tarefas do CRUD (parte 2)
-![Image #3](docs/images/image-3.jpg)
-
-## 10) Glossario
+## 9) Glossario
 
 - CRUD: Create, Read, Update, Delete.
 - MVC: Model, View, Controller.
@@ -246,7 +235,7 @@ Acesso:
 - FK: Foreign Key.
 - CRECI: registro profissional do corretor de imoveis.
 
-## 11) Atribuicoes e Entrega
+## 10) Atribuicoes e Entrega
 
 Atribuicoes:
 - Savio Sales / Caio Cesar / Antonio Marcos - Analise de Mercado e Sistemas Semelhantes
@@ -254,8 +243,10 @@ Atribuicoes:
 - Gustavo / Nathanael Bueno / Lucas - QA e Testes Unitarios e de Usabilidade
 - Antonio Marcos / Savio Sales - Responsavel por Revisar Codigo, Subir o Repositorio Final e Colocar na VPS
 
-Repositorio: https://github.com/bymarquin/imobiliaria
+Entrega:
+- Repositorio: https://github.com/bymarquin/tde03_imobiliaria_ravel
+- Projeto Online: https://imobiliaria-ravel.online/cliente_busca.php
 
-Projeto Online: https://imobiliaria-ravel.online/cliente_busca.php
-Login Admin: admin@imobiliaria.com
-Senha Admin: admin123
+Credenciais administrativas (ambiente publicado):
+- Login Admin: admin@imobiliaria.com
+- Senha Admin: admin123
